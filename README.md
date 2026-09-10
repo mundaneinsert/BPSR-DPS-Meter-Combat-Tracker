@@ -141,3 +141,4 @@ This is an independent community project and is not affiliated with the game's d
 
 Review the current game and platform rules before using third-party companion tools or automation.
 
+                                                                                                    
